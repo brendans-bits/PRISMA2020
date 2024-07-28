@@ -96,7 +96,7 @@ PRISMA_flowdiagram <- function( #nolint
   other_notretrieved_height <- 0
   other_assessed_height <- 0
   other_excluded_height <- 0
-  default_box_width <- 3.5
+  default_box_width <- 2
   min_box_height <- 0.5
   default_box_spacing <- 0.5
   section_label_length <- 0.4
